@@ -1,0 +1,11 @@
+HTTP_GET = 'GET'
+HTTP_POST = 'POST'
+HTTP_DELETE = 'DELETE'
+maincontent="main"
+movieFramecontentClass="lister-item mode-advanced"
+movieElementClass="lister-item-header"
+movieRuntime="runtime"
+movieGenre="genre"
+imageClass="loadlate"
+movieReleaseYearClass = "lister-item-year text-muted unbold"
+GENRES = ["Action", "Thriller", "Drama", "Horror", "Mystery", "Comedy","Fantasy", "Romance", "History","Family", "Animation", "Western", "War", "Musical", "Sports", "News", "Adventure"]
