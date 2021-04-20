@@ -110,4 +110,5 @@ __This Project will scrap movie data on daily basis from IMDB Site : https://www
 
 * __Note : 
 * __If You get any error you can revert back to developer's email : nikunjmishra8170@gmail.com
+* __Makesure before running the project , that Your env.ini file which is shared by developer seperately, is placed inside the "src" folder 
 	
